@@ -1,0 +1,29 @@
+name: loan_prediction_app
+description: A Flutter app for loan prediction.
+
+publish_to: 'none' # Remove this line if you plan to publish the app
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3  # For API calls to your FastAPI backend
+  provider: ^6.0.0 # If you're using provider for state management
+  # Add other dependencies here as needed
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - assets/ # If you have any asset files like images, fonts, etc.
+
+  # Ensure that any necessary packages are included for your app's requirements.
