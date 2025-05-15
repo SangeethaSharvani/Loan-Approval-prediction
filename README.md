@@ -8,7 +8,7 @@ To prepare the data, missing values were handled using appropriate imputation te
 
 The SVM classifier was trained on the processed training data using a linear kernel. SVM works by finding the optimal hyperplane that best separates the data points into their respective classes—in this case, approved or rejected loan applications. After training, the model was evaluated on the test set using metrics such as accuracy score, which measures the proportion of correct predictions.
 
-The trained model achieved an accuracy of approximately XX% (replace with your value), demonstrating its capability to generalize well on unseen data. In addition to performance evaluation, the model was used to predict the loan approval status of new applicants based on their input features. These predictions can assist banks in making fast and reliable loan decisions.
+The trained model achieved an accuracy of approximately 83% , demonstrating its capability to generalize well on unseen data. In addition to performance evaluation, the model was used to predict the loan approval status of new applicants based on their input features. These predictions can assist banks in making fast and reliable loan decisions.
 
 The entire system was implemented using Python, with libraries like Pandas, NumPy, and Scikit-learn for data handling and machine learning. This project showcases the practical application of SVM in financial analytics and provides a foundation for integrating more advanced models or real-time deployment in future work.
 
