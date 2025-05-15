@@ -9,7 +9,7 @@ This project uses machine learning (Support Vector Classifier) to predict loan a
 - 📦 [Trained Model (svc_model_11_features.pkl)](./svc_model_11_features.pkl)
 - 📊 [Dataset (loan_data_set.csv)](./loan_data_set.csv)
 - 🎥 [Demo Video (demo_video.mp4)](./demo_video.mp4)
-- 📱 [Download APK (LoanApprovalApp.apk)](./LoanApprovalApp.apk) *(Upload your .apk file if not already)*
+- 📱 [Download APK (LoanApprovalApp.apk)](./app-release.apk) 
 
 ---
 
