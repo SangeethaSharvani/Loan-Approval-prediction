@@ -1,4 +1,4 @@
-# loan-approval-prediction
+# Loan-approval-prediction
 Loan Prediction System using Support Vector Machine (SVM)
 The Loan Prediction System is a machine learning-based project designed to predict the approval status of loan applications using applicant data. The system is built using the Support Vector Machine (SVM) algorithm, a robust and widely-used supervised learning method for binary classification tasks. This system helps financial institutions automate the decision-making process and evaluate loan eligibility more efficiently.
 
